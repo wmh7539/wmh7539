@@ -28,6 +28,5 @@ Here are some ideas to get you started:
 
 #### 👗 [virtual-fitting-pipeline](https://github.com/qkrrkdtj/virtual-fitting-pipeline)
 > **AI & Deep Learning Pipeline**
-- **Core:** Virtual Try-on System (HR-VITON)
-- **Stack:** Python, PyTorch, FastAPI, Streamlit
-- **Point:** 대량의 이미지 전처리 및 추론 과정을 모듈화하여 확장성 있는 AI 파이프라인 완성
+- 대량의 이미지 전처리 및 추론 과정을 모듈화하여 확장성 있는 AI 파이프라인 완성
+- HR-VITON 모델 연구 및 FastAPI 서버 통합 구현
