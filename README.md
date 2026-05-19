@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 
 #### 🤖 [STM32-balancing-robot](https://github.com/wmh7539/STM32-balancing-robot)
 > **Embedded Control & Robotics**
-- **Core:** PID Control, MPU6050 DMP Processing
-- **Stack:** Register-level C, CMSIS, Bare-metal
-- **Point:** 하드웨어 자원을 최적화하여 1ms 주기의 정밀한 밸런싱 제어를 구현했습니다.
+- 실시간 자세 제어 (PID)
+- 정밀 모터 구동 (PWM & Embedded)
 
 #### 👗 [virtual-fitting-pipeline](https://github.com/qkrrkdtj/virtual-fitting-pipeline)
 > **AI & Deep Learning Pipeline**
