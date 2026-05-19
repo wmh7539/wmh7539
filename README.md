@@ -32,9 +32,3 @@ Here are some ideas to get you started:
 - **Core:** Virtual Try-on System (HR-VITON)
 - **Stack:** Python, PyTorch, FastAPI, Streamlit
 - **Point:** 대량의 이미지 전처리 및 추론 과정을 모듈화하여 확장성 있는 AI 파이프라인 완성
-
----
-
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=wmh7539&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wmh7539&layout=compact&theme=radical)
