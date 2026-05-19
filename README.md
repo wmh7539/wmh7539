@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - **Stack:** Register-level C, CMSIS, Bare-metal
 - **Point:** 하드웨어 자원을 최적화하여 1ms 주기의 정밀한 밸런싱 제어를 구현했습니다.
 
-#### 👗 [virtual-fitting-pipeline]([https://github.com/qkrrkdtj/virtual-fitting-pipeline])
+#### 👗 [virtual-fitting-pipeline](https://github.com/qkrrkdtj/virtual-fitting-pipeline)
 > **AI & Deep Learning Pipeline**
 - **Core:** Virtual Try-on System (HR-VITON)
 - **Stack:** Python, PyTorch, FastAPI, Streamlit
