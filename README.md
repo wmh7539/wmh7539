@@ -4,7 +4,7 @@
 
 ---
 
-### 📁 Featured Projects
+### 📁 Projects
 
 #### 🤖 [STM32-balancing-robot](https://github.com/wmh7539/STM32-balancing-robot)
 > **Embedded Control & Robotics**
