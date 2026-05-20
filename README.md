@@ -6,7 +6,7 @@
 
 ### 📁 Projects
 
-#### 🤖 [STM32-balancing-robot](https://github.com/wmh7539/STM32-balancing-robot)
+#### 🤖 [STM32-balancing-robot](https://github.com/wmh7539/STM32-balancing-robot) (2026.04.03 ~ 2026.04.14)
 > **Embedded Control & Robotics**
 - 실시간 자세 제어 (PID)
 - 정밀 모터 구동 (PWM & Embedded)
